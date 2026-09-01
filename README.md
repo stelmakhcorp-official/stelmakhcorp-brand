@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9f63fd7f-f2e7-4269-99ee-41f88d4f7197" alt="Stelmakh© Corp™ Logo" width="300">
-</p>
+<img width="1024" height="1024" alt="Stelmakh© Corp - Logo" src="https://github.com/user-attachments/assets/86fda4e3-d4bd-40bd-b202-a06f133ee951" />
+
 
 <h3 align="center">Stelmakh© Corp™ — независимая интеграционная компания</h3>
 <h4 align="center">Корпоративная бизнес‑архитектура для PostgreSQL</h4>
